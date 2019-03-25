@@ -18,6 +18,8 @@ Check if Node.js is installed. Prompt in the command line `node --version` and c
 
 Check if Prisma is installed globally. Prompt in the command line `prisma --version` and you have at least version `prisma/1.29.1`
 
+If Prisma is not installed you can install it by running `npm install -g prisma`
+
 ## How to clone it
 
 ### clone with https
